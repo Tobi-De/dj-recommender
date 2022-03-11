@@ -1,2 +1,2 @@
 # dj-recommender
-A simple and flexible recommander system for your django projects.
+A simple and flexible recommandation system for your django projects.
